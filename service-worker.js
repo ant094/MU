@@ -63,6 +63,8 @@ precacheAndRoute([
     {url: '/service-worker.js', revision: '1'},
     {url: '/push.js', revision: '1'},
     {url: '/js/script.js', revision: '1'},
+    { url: '/https://ant094.github.io/', revision: '1'},
+    
 ]);
 
 

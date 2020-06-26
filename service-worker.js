@@ -11,7 +11,8 @@ if (workbox) {
 }
 
 precacheAndRoute([
-   {url: '/', revision: '1'},
+    {url: '/', revision: '1'},
+    {url: 'https://ant094.github.io/', revision: '1' },
     {url: '/manifest.json', revision: '1'},
     {url: '/index.html', revision: '1'},
     {url: "/images/AFCBournemouth.png", revision: '1'},
@@ -63,7 +64,7 @@ precacheAndRoute([
     {url: '/service-worker.js', revision: '1'},
     {url: '/push.js', revision: '1'},
     {url: '/js/script.js', revision: '1'},
-    { url: '/https://ant094.github.io/', revision: '1'},
+   
     
 ]);
 

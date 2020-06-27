@@ -11,7 +11,6 @@ if (workbox) {
 }
 
 precacheAndRoute([
-    {url: '/', revision: '1'},
     {url: 'manifest.json', revision: '1'},
     {url: 'index.html', revision: '1'},
     {url: "images/AFCBournemouth.png", revision: '1'},

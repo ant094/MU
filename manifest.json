@@ -3,7 +3,7 @@
     "name": "ManchesterUnitedFC",
     "lang": "en",
     "description": "ManchesterUnitedFC WEB apps",
-    "start_url": "/index.html",
+    "start_url": "/MU/index.html",
     "background_color": "#c70101",
     "theme_color": "#c70101",
     "dir": "ltr",

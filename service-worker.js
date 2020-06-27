@@ -11,6 +11,7 @@ if (workbox) {
 }
 
 precacheAndRoute([
+    {url: 'https://ant094.github.io/MU/', revision: '1'},
     {url: 'manifest.json', revision: '1'},
     {url: 'index.html', revision: '1'},
     {url: "images/AFCBournemouth.png", revision: '1'},
